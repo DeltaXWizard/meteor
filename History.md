@@ -6,6 +6,24 @@
 
 #### Independent Releases
 
+## v2.4.1, UNRELEASED
+
+### Migration steps
+
+- N/A
+
+### Breaking changes
+* N/A
+
+#### Meteor Version Release
+
+* `meteor-tool@2.4.1` 
+  - `container-size` option is now available in `meteor deploy`, this is 
+  important to support new features in Meteor Cloud. Possible values `tiny`, 
+  `compact`, `standard`, `double`, `quad`, `octa`, `dozen`.
+
+#### Independent Releases
+
 * `modern-browsers@0.1.6`
   - Added `mobileSafariUI` as an alias for Mobile Safari
 
